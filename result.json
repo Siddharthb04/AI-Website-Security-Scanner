@@ -1,0 +1,65 @@
+{
+    "url": "https://effilo.com/",
+    "timestamp": "2025-05-09T16:45:33.035533",
+    "text_analysis": {
+        "sequence": "End Of Season Sale till 17th May\nMenu\nLog in\nCart\nitems\nPrevious slide\nNext slide\nLIVE LIFE, STAIN - FREE\nLIVE LIFE, STAIN - FREE\nWORK FROM HOME POLO'S\nCoffee Brown - Polo Tshirt\nCoffee Brown - Polo Tshirt\nRs. 349.00\nSale price\nRs. 1,099.00\n        \n           Small\n        \n           Medium\n        \n           Large\n        \n           Xtra Large\n        \n           Double Xtra Large\n        \n       Regular price\nAdd to Cart\n, Coffee Brown - Polo Tshirt\nSolid Navy - Polo Tshirt\nSolid Navy - Polo Tshirt\nRs",
+        "labels": [
+            "explicit",
+            "adult",
+            "safe",
+            "NSFW",
+            "porn"
+        ],
+        "scores": [
+            0.5915511846542358,
+            0.15475867688655853,
+            0.13361047208309174,
+            0.06381172686815262,
+            0.05626796558499336
+        ]
+    },
+    "image_analysis": [
+        {
+            "normal": 0.9962814450263977,
+            "nsfw": 0.0037185593973845243
+        },
+        {
+            "normal": 0.9997891783714294,
+            "nsfw": 0.00021089130314067006
+        },
+        {
+            "normal": 0.9997883439064026,
+            "nsfw": 0.00021163497876841575
+        },
+        {
+            "normal": 0.9998855590820312,
+            "nsfw": 0.00011445609561633319
+        },
+        {
+            "normal": 0.9998831748962402,
+            "nsfw": 0.00011682885087793693
+        },
+        {
+            "normal": 0.9996316432952881,
+            "nsfw": 0.0003683980321511626
+        },
+        {
+            "normal": 0.9997645020484924,
+            "nsfw": 0.0002354429307160899
+        },
+        {
+            "normal": 0.9996402263641357,
+            "nsfw": 0.0003597352188080549
+        },
+        {
+            "normal": 0.9997885823249817,
+            "nsfw": 0.0002114649541908875
+        },
+        {
+            "normal": 0.9995630383491516,
+            "nsfw": 0.000436926435213536
+        }
+    ],
+    "verdict": "Safe",
+    "adult": "no"
+}
